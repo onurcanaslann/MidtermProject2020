@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">S.H Quiz</string>
+    <string name="welcome">Welcome</string>
+    <string name="splash"> Please make your choices </string>
+    <string name="button">Tutorial </string>
+    <string name="button2">Quiz </string>
+    <string-array name="Language_name">
+        <item>Assembly Language</item>
+        <item>C#</item>
+        <item>C++</item>
+        <item>C</item>
+        <item>Cobol</item>
+        <item>Go</item>
+        <item>General Software History</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Perl</item>
+        <item>Php</item>
+        <item>Python</item>
+        <item>R</item>
+        <item>Sql</item>
+        <item>VisualBasic.Net</item>
+    </string-array>
+    <string name="software">Software</string>
+    <string name="history">History</string>
+    <string name="quiz">Quiz</string>
+    <string name="developer">Developer</string>
+    <string name="fname">Onur Can Aslan</string>
+    <string name="mail">onurcan.aslan@hotmail.com</string>
+    <string name="score">Score</string>
+</resources>
